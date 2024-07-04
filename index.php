@@ -57,7 +57,7 @@
     </style>
 </head>
 <body>
-    <form action="https://github.com/fviatool/fvia.github.io/upload/main" method="post" enctype="multipart/form-data">
+    <form action="https://github.com/fviatool/paolaloft/upload/main" method="post" enctype="multipart/form-data">
         <input type="hidden" name="title" value="New Image Upload">
         <input type="hidden" name="labels" value="image-upload">
         <label for="image">Select Image:</label>
